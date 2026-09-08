@@ -1,4 +1,4 @@
-// main.py
+// main.c
 #include <stdio.h>
 
 int width = 80;
